@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Loughaunroe2022
+- 👀 I’m interested in Learning to code
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on basic projects
+- 📫 How to reach me - GitHUB
